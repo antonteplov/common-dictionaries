@@ -1,360 +1,389 @@
-token,value
- выходною,dayoff
-ай ви ар,ivr
-айвиар,ivr
-анлайн,onsite
-анлайна,onsite
-анлайне,onsite
-апл пэй,applePay
-аплпэй,applePay
-багаж,baggage
-багажа,baggage
-багаже,baggage
-багажем,baggage
-багажём,baggage
-багажом,baggage
-багажу,baggage
-балы,points
-банасе,balance
-безнал,notcache
-безналичному,notcache
-безналичным,notcache
-безналом,notcache
-безналу,notcache
-бизнес зал,vipzal
-бизнес зала,vipzal
-бизнес залу,vipzal
-бик,requisites
-будней,workday
-будни,workday
-будням,workday
-буднями,workday
-буднях,workday
-во сколко,workingHours
-во скольких,workingHours
-во сколько,workingHours
-военного билета,milbil
-военном билете,milbil
-военный билет,milbil
-выгрузка,statement
-выгрузке,statement
-выгрузки,statement
-выгрузку,statement
-выписка,statement
-выписке,statement
-выписки,statement
-выпиской,statement
-выписку,statement
-выходная,dayoff
-выходного,dayoff
-выходное,dayoff
-выходной,dayoff
-выходном,dayoff
-выходному,dayoff
-выходную,dayoff
-выходные,dayoff
-выходным,dayoff
-выходными,dayoff
-выходных,dayoff
-гугл пэй,googlePay
-гуголпэй,googlePay
-данные,data
-данным,data
-данных,data
-дистанционно,remote
-дистанционо,remote
-дистинционно,remote
-до какого времени,workingHours
-до сколки,workingHours
-до сколких,workingHours
-до сколко,workingHours
-до скольки,workingHours
-до скольких,workingHours
-до сколько,workingHours
-договор,contract
-договора,contract
-договоре,contract
-договору,contract
-договоры,contract
-доход,income
-доходам,income
-доходах,income
-доходе,income
-доходу,income
-еще,more
-ещё,more
-зал,zal
-залам,zal
-залами,zal
-залов,zal
-залом,zal
-залу,zal
-залы,zal
-и н н,requisites
-и нэ нэ,requisites
-и эн эн,requisites
-иб,intbanking
-инн,requisites
-интернет банке,intbanking
-инэнэ,requisites
-кеш бек,cashBack
-кешбек,cashBack
-ключевого слова,secword
-ключевое слов,secword
-ключевое слово,secword
-ключевое слову,secword
-ключевому слово,secword
-ключевому слову,secword
-кодовое слово,secword
-кодовому слову,secword
-кодовые слова,secword
-курьер,courier
-кэш,cashBack
-кэш бэк,cashBack
-кэша,cashBack
-кэшбек,cashBack
-кэшбека,cashBack
-кэшбэке,cashBack
-кэшбэку,cashBack
-кэшу,cashBack
-ланжкеев,lkey
-ланжкей,lkey
-лаундж кей,lkey
-лаунджкеев,lkey
-лаунджкей,lkey
-лаунж,lkey
-ли,li
-личного кабинета,perscab
-личной кабинет,perscab
-личном кабинете,perscab
-личному кабинету,perscab
-личный кабинет,perscab
-личный кабинету,perscab
-лонжкей,lkey
-магазин,magazin
-магазина,magazin
-магазинах,magazin
-магазине,magazin
-магазином,magazin
-магазину,magazin
-магазины,magazin
-мб,mbanking
-месяц,month
-мк,mbanking
-мобильного банка,mbanking
-мобильного клиента,mclient
-мобильного приложения,mobileapp
-мобильное приложение,mobileapp
-мобильном банке,mbanking
-мобильном клиенте,mclient
-мобильном приложении,mobileapp
-мобильному банку,mbanking
-мобильному клиенту,mclient
-мобильные клиенты,mclient
-мобильный банк,mbanking
-мобильный клиент,mclient
-мобильным приложением,mobileapp
-моем кредите,mk
-мошенникам,fraud
-мошенников,fraud
-номер,номер
-онлайн,onsite
-онлайна,onsite
-онлайне,onsite
-партнер,partner
-партнёр,partner
-партнера,partner
-партнёра,partner
-партнерам,partner
-партнёрам,partner
-партнерах,partner
-партнёрах,partner
-партнере,partner
-партнёре,partner
-партнером,partner
-партнеру,partner
-партнёру,partner
-партнеры,partner
-партнёры,partner
-паспорт,pasport
-паспорта,pasport
-паспорте,pasport
-паспорту,pasport
-паспорты,pasport
-пдп,pdp
-платформа,platform
-платформе,platform
-платформы,platform
-подписей,signature
-подписи,signature
-подпись,signature
-подписью,signature
-полис,polis
-полиса,polis
-полисах,polis
-полисом,polis
-полису,polis
-полисы,polis
-польза,polza
-пользе,polza
-пользу,polza
-пользы,polza
-праздник,holiday
-праздника,holiday
-праздникам,holiday
-праздниками,holiday
-праздниках,holiday
-празднике,holiday
-праздники,holiday
-праздников,holiday
-праздником,holiday
-празднику,holiday
-предложение,offer
-предложении,offer
-предложений,offer
-предложению,offer
-предложения,offer
-приложение,apps
-приложении,apps
-приложению,apps
-приложения,apps
-програма,programm
-програме,programm
-программа,programm
-программе,programm
-программу,programm
-программы,programm
-програму,programm
-програмы,programm
-продукт,product
-продукта,product
-продуктам,product
-продуктов,product
-продуктом,product
-продукту,product
-продукты,product
-производителей,manufacturer
-производителем,manufacturer
-производители,manufacturer
-производитель,manufacturer
-производителю,manufacturer
-производителя,manufacturer
-пэ дэ пэ,pdp
-пэдепэ,pdp
-пэдэпэ,pdp
-рагионе,region
-раздел,section
-разделам,section
-разделах,section
-разделе,section
-разделов,section
-разделу,section
-расписание,timeline
-расписанием,timeline
-расписании,timeline
-расписаний,timeline
-расписанию,timeline
-расписания,timeline
-расписаниям,timeline
-расписаниями,timeline
-расписаниях,timeline
-регион,region
-региона,region
-региону,region
-регионы,region
-реквизит,requisites
-реквизита,requisites
-реквизитам,requisites
-реквизитах,requisites
-реквизитов,requisites
-реквизиту,requisites
-реквизиты,requisites
-сервис,service
-сервиса,service
-сервисы,service
-серии,serie
-серия,serie
-си ви ви,cvv
-сививи,cvv
-со сколко,workingHours
-со скольки,workingHours
-сотрудник,employee
-способ,methods
-способом,methods
-способы,methods
-справка,spravka
-справке,spravka
-справки,spravka
-справкой,spravka
-справку,spravka
-справочка,spravka
-справочке,spravka
-справочку,spravka
-страниц,onsite
-страница,onsite
-странице,onsite
-страницы,onsite
-страховая,insurance
-страховка,insurance
-страховки,insurance
-страховку,insurance
-страхового,insurance
-страховой,insurance
-страховые,insurance
-страховым,insurance
-страховых,insurance
-судьба,destiny
-судьбе,destiny
-судьбой,destiny
-судьбу,destiny
-сумка,bag
-сумке,bag
-сумки,bag
-счет,bill
-счета,bill
-счете,bill
-товар,product
-товара,product
-товарного,product
-товаров,product
-товаром,product
-товару,product
-товары,product
-тревел,travel
-трэвалу,travel
-трэволом,travel
-трэволу,travel
-трэвэл,travel
-трэвэла,travel
-трэвэлом,travel
-трэвэлу,travel
-удалённо,remote
-условие,conditions
-условием,conditions
-условий,conditions
-условия,conditions
-услуг,service
-услуга,service
-услуги,service
-услугу,service
-финансовая защита,findef
-финансовой защиты,findef
-финансовую защиту,findef
-финзащиту,findef
-хватает,enough
-част,part
-часть,part
-чдп,chdp
-че де пэ,chdp
-чедепэ,chdp
-чедэпэ,chdp
-числе,chislo
-число,chislo
-числу,chislo
-чэ дэ пэ,chdp
-чэдепэ,chdp
-чэдэпэ,chdp
-эм ка,mobileapp
-эпл пэй,applePay
-эплпэй,applePay
-эппэл пэй,applePay
+token;value
+айвиар;ivr
+ай ви ар;ivr
+анлайн;onsite
+анлайна;onsite
+анлайне;onsite
+аплпэй;applePay
+апл пэй;applePay
+багаж;baggage
+багажа;baggage
+багаже;baggage
+багажем;baggage
+багажём;baggage
+багажом;baggage
+багажу;baggage
+балы;points
+банасе;balance
+безнал;notcache
+безналичному;notcache
+безналичным;notcache
+безналом;notcache
+безналу;notcache
+бизнес зал;vipzal
+бизнес зала;vipzal
+бизнес залу;vipzal
+бик;requisites
+будней;workday
+будни;workday
+будням;workday
+буднями;workday
+буднях;workday
+военного билета;milbil
+военном билете;milbil
+военный билет;milbil
+во сколко;workingHours
+во скольких;workingHours
+во сколько;workingHours
+выгрузка;statement
+выгрузке;statement
+выгрузки;statement
+выгрузку;statement
+выписка;statement
+выписке;statement
+выписки;statement
+выпиской;statement
+выписку;statement
+выходная;dayoff
+выходного;dayoff
+выходное;dayoff
+выходной;dayoff
+выходном;dayoff
+выходному;dayoff
+ выходною;dayoff
+выходную;dayoff
+выходные;dayoff
+выходным;dayoff
+выходными;dayoff
+выходных;dayoff
+гугл пэй;googlePay
+гуголпэй;googlePay
+данные;data
+данным;data
+данных;data
+дистанционно;remote
+дистанционо;remote
+дистинционно;remote
+договор;contract
+договора;contract
+договоре;contract
+договору;contract
+договоры;contract
+до какого времени;workingHours
+до сколки;workingHours
+до сколких;workingHours
+до сколко;workingHours
+до скольки;workingHours
+до скольких;workingHours
+до сколько;workingHours
+доход;income
+доходам;income
+доходах;income
+доходе;income
+доходу;income
+еще;more
+ещё;more
+зал;zal
+залам;zal
+залами;zal
+залов;zal
+залом;zal
+залу;zal
+залы;zal
+иб;intbanking
+инн;requisites
+и н н;requisites
+интернет банке;intbanking
+инэнэ;requisites
+и нэ нэ;requisites
+и эн эн;requisites
+кешбек;cashBack
+кеш бек;cashBack
+ключевого слова;secword
+ключевое слов;secword
+ключевое слово;secword
+ключевое слову;secword
+ключевому слово;secword
+ключевому слову;secword
+кодовое слово;secword
+кодовому слову;secword
+кодовые слова;secword
+курьер;courier
+кэш;cashBack
+кэша;cashBack
+кэшбек;cashBack
+кэшбека;cashBack
+кэш бэк;cashBack
+кэшбэке;cashBack
+кэшбэку;cashBack
+кэшу;cashBack
+ланжкеев;lkey
+ланжкей;lkey
+лаунджкеев;lkey
+лаунджкей;lkey
+лаундж кей;lkey
+лаунж;lkey
+ли;li
+личного кабинета;perscab
+личной кабинет;perscab
+личном кабинете;perscab
+личному кабинету;perscab
+личный кабинет;perscab
+личный кабинету;perscab
+лонжкей;lkey
+магазин;magazin
+магазина;magazin
+магазинах;magazin
+магазине;magazin
+магазином;magazin
+магазину;magazin
+магазины;magazin
+мб;mbanking
+месяц;month
+мк;mbanking
+мобильного банка;mbanking
+мобильного клиента;mclient
+мобильного приложения;mobileapp
+мобильное приложение;mobileapp
+мобильном банке;mbanking
+мобильном клиенте;mclient
+мобильном приложении;mobileapp
+мобильному банку;mbanking
+мобильному клиенту;mclient
+мобильные клиенты;mclient
+мобильный банк;mbanking
+мобильный клиент;mclient
+мобильным приложением;mobileapp
+моем кредите;mk
+мошенникам;fraud
+мошенников;fraud
+номер;номер
+онлайн;onsite
+онлайна;onsite
+онлайне;onsite
+партнер;partner
+партнера;partner
+партнерам;partner
+партнерах;partner
+партнере;partner
+партнером;partner
+партнеру;partner
+партнеры;partner
+партнёр;partner
+партнёра;partner
+партнёрам;partner
+партнёрах;partner
+партнёре;partner
+партнёру;partner
+партнёры;partner
+паспорт;pasport
+паспорта;pasport
+паспорте;pasport
+паспорту;pasport
+паспорты;pasport
+пдп;pdp
+платформа;platform
+платформе;platform
+платформы;platform
+подписей;signature
+подписи;signature
+подпись;signature
+подписью;signature
+полис;polis
+полиса;polis
+полисах;polis
+полисом;polis
+полису;polis
+полисы;polis
+польза;polza
+пользе;polza
+пользу;polza
+пользы;polza
+праздник;holiday
+праздника;holiday
+праздникам;holiday
+праздниками;holiday
+праздниках;holiday
+празднике;holiday
+праздники;holiday
+праздников;holiday
+праздником;holiday
+празднику;holiday
+предложение;offer
+предложении;offer
+предложений;offer
+предложению;offer
+предложения;offer
+приложение;apps
+приложении;apps
+приложению;apps
+приложения;apps
+програма;programm
+програме;programm
+программа;programm
+программе;programm
+программу;programm
+программы;programm
+програму;programm
+програмы;programm
+продукт;product
+продукта;product
+продуктам;product
+продуктов;product
+продуктом;product
+продукту;product
+продукты;product
+производителей;manufacturer
+производителем;manufacturer
+производители;manufacturer
+производитель;manufacturer
+производителю;manufacturer
+производителя;manufacturer
+пэдепэ;pdp
+пэдэпэ;pdp
+пэ дэ пэ;pdp
+рагионе;region
+раздел;section
+разделам;section
+разделах;section
+разделе;section
+разделов;section
+разделу;section
+расписание;timeline
+расписанием;timeline
+расписании;timeline
+расписаний;timeline
+расписанию;timeline
+расписания;timeline
+расписаниям;timeline
+расписаниями;timeline
+расписаниях;timeline
+регион;region
+региона;region
+региону;region
+регионы;region
+реквизит;requisites
+реквизита;requisites
+реквизитам;requisites
+реквизитах;requisites
+реквизитов;requisites
+реквизиту;requisites
+реквизиты;requisites
+сервис;service
+сервиса;service
+сервисы;service
+серии;serie
+серия;serie
+сививи;cvv
+си ви ви;cvv
+со сколко;workingHours
+со скольки;workingHours
+сотрудник;employee
+способ;methods
+способом;methods
+способы;methods
+справка;spravka
+справке;spravka
+справки;spravka
+справкой;spravka
+справку;spravka
+справочка;spravka
+справочке;spravka
+справочку;spravka
+страниц;onsite
+страница;onsite
+странице;onsite
+страницы;onsite
+страховая;insurance
+страховка;insurance
+страховки;insurance
+страховку;insurance
+страхового;insurance
+страховой;insurance
+страховые;insurance
+страховым;insurance
+страховых;insurance
+судьба;destiny
+судьбе;destiny
+судьбой;destiny
+судьбу;destiny
+сумка;bag
+сумке;bag
+сумки;bag
+счет;bill
+счета;bill
+счете;bill
+товар;product
+товара;product
+товарного;product
+товаров;product
+товаром;product
+товару;product
+товары;product
+тревел;travel
+трэвалу;travel
+трэволом;travel
+трэволу;travel
+трэвэл;travel
+трэвэла;travel
+трэвэлом;travel
+трэвэлу;travel
+удалённо;remote
+условие;conditions
+условием;conditions
+условий;conditions
+условия;conditions
+услуг;service
+услуга;service
+услуги;service
+услугу;service
+финансовая защита;findef
+финансовой защиты;findef
+финансовую защиту;findef
+финзащиту;findef
+хватает;enough
+част;part
+часть;part
+чдп;chdp
+чедепэ;chdp
+че де пэ;chdp
+чедэпэ;chdp
+числе;chislo
+число;chislo
+числу;chislo
+чэдепэ;chdp
+чэдэпэ;chdp
+чэ дэ пэ;chdp
+эм ка;mobileapp
+эплпэй;applePay
+эпл пэй;applePay
+эппэл пэй;applePay
+вор;thief
+вора;thief
+ворам;thief
+ворами;thief
+ворах;thief
+воре;thief
+воров;thief
+вором;thief
+вору;thief
+воры;thief
+злоумышленник;thief
+злоумышленника;thief
+злоумышленникам;thief
+злоумышленниками;thief
+злоумышленниках;thief
+злоумышленнике;thief
+злоумышленники;thief
+злоумышленников;thief
+злоумышленником;thief
+злоумышленнику;thief
+мошейник;fraud
+мошенник;fraud
+мошенника;fraud
+мошенниками;fraud
+мошенниках;fraud
+мошеннике;fraud
+мошенники;fraud
+мошенником;fraud
+мошеннику;fraud
